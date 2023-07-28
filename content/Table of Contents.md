@@ -1,3 +1,6 @@
+---
+title: "Table of Contents"
+---
 [[Preamble]]
 [[Glossary]]
 [[Players]]
